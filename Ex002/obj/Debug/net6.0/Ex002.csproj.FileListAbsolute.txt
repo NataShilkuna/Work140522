@@ -1,0 +1,15 @@
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\bin\Debug\net6.0\Ex002.exe
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\bin\Debug\net6.0\Ex002.deps.json
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\bin\Debug\net6.0\Ex002.runtimeconfig.json
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\bin\Debug\net6.0\Ex002.dll
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\bin\Debug\net6.0\Ex002.pdb
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\obj\Debug\net6.0\Ex002.csproj.AssemblyReference.cache
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\obj\Debug\net6.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfoInputs.cache
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfo.cs
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\obj\Debug\net6.0\Ex002.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\obj\Debug\net6.0\Ex002.dll
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\obj\Debug\net6.0\refint\Ex002.dll
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\obj\Debug\net6.0\Ex002.pdb
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\obj\Debug\net6.0\Ex002.genruntimeconfig.cache
+C:\Users\Наталья\Desktop\Дом.задание 140522\Examples\Ex002\obj\Debug\net6.0\ref\Ex002.dll
